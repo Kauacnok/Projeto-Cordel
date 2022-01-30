@@ -63,7 +63,7 @@ section p {
 }
 
 section.normal {
-    background-color: white;
+    background-image: linear-gradient(to right, white, rgb(167, 161, 161));
     color: black;
 }
 
